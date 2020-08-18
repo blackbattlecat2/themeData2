@@ -1,0 +1,36 @@
+{
+  "header": {
+    "headerContainer": {
+      "backgroundColor": "#FAD9FC"
+    },
+    "headerCompanyName": {
+      "color": "green",
+      "fontSize": "25px",
+      "fontFamily": "Tahoma, san-serif"
+    },
+    "headerLinks": {
+      "color": "green",
+      "fontSize": "20px"
+    },
+    "headerParagraph": {
+      "color": "green",
+      "fontSize": "25px"
+    },
+    "headerBtn": {
+      "backgroundColor": "green"
+    }
+  },
+  "main": {
+    "mainContainer": {
+      "backgroundColor": "#FAD9FC"
+    },
+    "mainHeading": {
+      "color": "green",
+      "fontSize": "25px",
+      "fontFamily": "Tahoma, san-serif"
+    },
+    "mainItemDescription": {
+      "color": "green"
+    }
+  }
+}
